@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 
-If you have any questions or suggestions regarding this implementation, feel free to reach out to us at [hamza.zarfaoui@telecom-paris.fr].
+If you have any questions or suggestions regarding this implementation, feel free to reach out to me at [hamza.zarfaoui@telecom-paris.fr].
